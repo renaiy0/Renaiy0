@@ -23,10 +23,10 @@ while (alive) {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renaiy0&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-```
-    ╔═══════════════════════════════════════╗
-    ║  "Code is like humor.                 ║
-    ║   When you have to explain it,        ║
-    ║   it's bad."                          ║
-    ╚═══════════════════════════════════════╝
-```
+                                                                          ```
+                                                                              ╔═══════════════════════════════════════╗
+                                                                              ║  "Code is like humor.                 ║
+                                                                              ║   When you have to explain it,        ║
+                                                                              ║   it's bad."                          ║
+                                                                              ╚═══════════════════════════════════════╝
+                                                                          ```
