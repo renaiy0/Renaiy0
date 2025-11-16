@@ -8,7 +8,6 @@ while (alive) {
   sleep();
   code();
   repeat();
-  and uh():
 }
 ```
 
