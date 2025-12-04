@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lo.gif" alt="l" /
+  <img src="lo.gif" alt="l" />
 </p>
 
 ```javascript
